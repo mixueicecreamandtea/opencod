@@ -1,0 +1,20 @@
+appname="天天学习"
+appver="1.0"
+appcode="1"
+appsdk="15"
+path_pattern=""
+packagename="com.nalqp.haha"
+theme="Theme_DeviceDefault"
+app_key=""
+app_channel=""
+developer="naldp"
+description="你问爷，爷问谁"
+debugmode=true
+user_permission={
+  "ACCESS_NETWORK_STATE",
+  "ACCESS_WIFI_STATE",
+  "DOWNLOAD_WITHOUT_NOTIFICATION",
+  "INTERNET",
+  "WAKE_LOCK",
+  "WRITE_EXTERNAL_STORAGE"
+}
